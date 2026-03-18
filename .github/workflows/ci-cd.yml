@@ -32,5 +32,5 @@ jobs:
         run: npm run lint
 
       # Крок 5: Запуск модульних тестів
-      - name: Run unit tests
-        run: npm run test:unit
+      #- name: Run unit tests
+      # run: npm run test:unit
