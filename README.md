@@ -1,8 +1,5 @@
-# My Lab 1 MVP
+# Vue 3 + Vite
 
-## Опис ідеї MVP
-Це базовий проєкт для вивчення основ роботи з розподіленою системою контролю версій Git. Мета — навчитися створювати структуру проєкту, працювати з репозиторіями та робити коміти.
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Інструкція з запуску
-1. Склонуйте репозиторій на локальну машину.
-2. Відкрийте файл `index.html` у будь-якому браузері.
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
